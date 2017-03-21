@@ -1,0 +1,70 @@
+
+.Main_screen_logo {
+	position: absolute;
+	top: 500px;
+	left: 680px;
+}
+
+.Hero_text {
+	position: absolute;
+	top: 550px;
+	left: 400px;
+	text-align: center;
+}
+
+.Section_1 {
+	position: absolute;
+	top: 1050px;
+	left: 230px;
+	text-align: center;
+}
+
+.Section_2 {
+	position: absolute;
+	top: 1600px;
+	left: 500px;
+	text-align: center;
+}
+
+.google_logo {
+	position: absolute;
+	top: 180px;
+	left: -300px;
+}
+
+.tesla_logo {
+	position: absolute;
+	top: 180px;
+	left: -150px;
+}
+
+.facebook_logo {
+	position: absolute;
+	top: 180px;
+	left: 10px;
+}
+
+.IITD_logo {
+	position: absolute;
+	top: 180px;
+	left: 300px;
+}
+
+.MIT_logo {
+	position: absolute;
+	top: 180px;
+	left: 475px;
+}
+
+.Stanford_logo {
+	position: absolute;
+	top: 180px;
+	left: 650px;
+}
+
+.Section_3 {
+	position: absolute;
+	top: 2000px;
+	left: 500px;
+	text-align: center;
+}
